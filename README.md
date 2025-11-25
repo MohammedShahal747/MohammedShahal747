@@ -2,10 +2,6 @@
 <h1 align="center">Hi 👋, I'm Mohammed Shahal</h1>
 <h3 align="center">AI & ML Developer | Flutter & Python Enthusiast</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views" alt="profile views" />
-</p>
-
 ---
 
 ### 🧑‍💻 About Me
