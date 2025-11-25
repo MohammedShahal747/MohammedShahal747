@@ -15,7 +15,7 @@
 - 🤖 Passionate about **Artificial Intelligence, Machine Learning & Automation**
 - 🧠 I love **learning new skills** and building **real-world projects**
 - 🎯 Goal: Become a strong **AI/ML Engineer & Mobile App Developer**
-- 📫 How to reach me: **yourmail@example.com**
+- 📫 How to reach me: **mohammedshahal545@gmail.com**
 
 ---
 
