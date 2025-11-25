@@ -1,16 +1,68 @@
-## Hi there 👋
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Mohammed Shahal</h1>
+<h3 align="center">AI & ML Developer | Flutter & Python Enthusiast</h3>
 
-<!--
-**MohammedShahal747/MohammedShahal747** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views" alt="profile views" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍💻 About Me
+
+- 🌱 I’m currently learning **AI/ML, Deep Learning & Flutter**
+- 💻 I work with **Python, scikit-learn, PyTorch, Flutter, HTML, CSS**
+- 🤖 Passionate about **Artificial Intelligence, Machine Learning & Automation**
+- 🧠 I love **learning new skills** and building **real-world projects**
+- 🎯 Goal: Become a strong **AI/ML Engineer & Mobile App Developer**
+- 📫 How to reach me: **yourmail@example.com**
+
+---
+
+### ⚙️ Tech Stack
+
+#### 🧠 AI / Machine Learning
+- Python • NumPy • Pandas • scikit-learn • PyTorch
+
+#### 📱 App & Web Development
+- Flutter
+- HTML • CSS
+
+#### 🛠️ Tools & Others
+- Git • GitHub • VS Code • Jupyter Notebook
+
+---
+
+### 🛡️ What I’m Interested In
+
+- 🚀 Building **AI/ML models** for real-world problems  
+- 📲 Creating **Flutter apps** with clean UI  
+- 📊 Working with **data, models & predictions**  
+- 🧪 Experimenting with **ML algorithms & deep learning**
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=transparent" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent" alt="Top languages" />
+</p>
+
+---
+
+### 🤝 Connect With Me
+
+- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_ID)
+- 🐙 GitHub: [YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
+
+---
+
+⭐️ _Thanks for visiting my profile!_
