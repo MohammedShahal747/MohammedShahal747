@@ -42,7 +42,7 @@
 ### 🤝 Connect With Me
 
 - 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_ID)
-- 🐙 GitHub: [YOUR_GITHUB_USERNAME]([https://github.com/YOUR_GITHUB_USERNAME](https://github.com/MohammedShahal747/MohammedShahal747))
+- 🐙 GitHub: [YOUR_GITHUB_USERNAME](https://github.com/MohammedShahal747/MohammedShahal747/blob/main/README.md)
 
 ---
 
