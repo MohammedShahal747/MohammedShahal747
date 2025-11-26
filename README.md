@@ -41,7 +41,7 @@
 
 ### 🤝 Connect With Me
 
-- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN_ID)
+- 💼 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/mohammed-shahal-p-b49773394?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 - 🐙 GitHub: [YOUR_GITHUB_USERNAME](https://github.com/MohammedShahal747/MohammedShahal747/blob/main/README.md)
 
 ---
